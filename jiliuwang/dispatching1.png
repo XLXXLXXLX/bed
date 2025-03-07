@@ -1,0 +1,12 @@
+--2025-03-07 23:27:19--  https://media.laborinfocn6.com/PTMsMbSyQE9dkpagRODJnYLqYFM3onW-W1UF9uFxpOA=
+Connecting to 127.0.0.1:10809... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 105091 (103K) [binary/octet-stream]
+Saving to: 'PTMsMbSyQE9dkpagRODJnYLqYFM3onW-W1UF9uFxpOA='
+
+     0K .......... .......... .......... .......... .......... 48%  123K 0s
+    50K .......... .......... .......... .......... .......... 97%  252K 0s
+   100K ..                                                    100% 19.3M=0.6s
+
+2025-03-07 23:27:21 (169 KB/s) - 'PTMsMbSyQE9dkpagRODJnYLqYFM3onW-W1UF9uFxpOA=' saved [105091/105091]
+
